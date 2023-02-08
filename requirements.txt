@@ -17,7 +17,7 @@ numpy==1.21.6
 opencv-contrib-python==4.7.0.68
 opencv-python==4.7.0.68
 opencv-python-headless==4.7.0.68
-pandas==1.5.3
+pandas==1.3.5
 Pillow==9.4.0
 PuLP==2.7.0
 python-dateutil==2.8.2
@@ -50,7 +50,7 @@ numpy==1.21.6
 opencv-contrib-python==4.7.0.68
 opencv-python==4.7.0.68
 opencv-python-headless==4.7.0.68
-pandas==1.5.3
+pandas==1.3.5
 Pillow==9.4.0
 PuLP==2.7.0
 python-dateutil==2.8.2
@@ -84,7 +84,7 @@ numpy==1.21.6
 opencv-contrib-python==4.7.0.68
 opencv-python==4.7.0.68
 opencv-python-headless==4.7.0.68
-pandas==1.5.3
+pandas==1.3.5
 Pillow==9.4.0
 PuLP==2.7.0
 python-dateutil==2.8.2
@@ -119,7 +119,7 @@ numpy==1.21.6
 opencv-contrib-python==4.7.0.68
 opencv-python==4.7.0.68
 opencv-python-headless==4.7.0.68
-pandas==1.5.3
+pandas==1.3.5
 Pillow==9.4.0
 PuLP==2.7.0
 python-dateutil==2.8.2
